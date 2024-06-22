@@ -4,14 +4,8 @@
 #### Under : Prof Abhiroop Mukhopadhyay
 
 ### Abstract
-This report attempts to study the impact of attitude of households towards
-dowry on the highest education female attained in them. The study is based on
-India Human Development Survey (IHDS) 2011, which is a nationally
-representative, multi-topic survey encompassing 42,152 sample households in
-1420 villages and 1042 urban neighbourhoods across India. The study
-concludes that, after controlling for relevant factors, attitude of households
-towards dowry has positive impact on the highest female education attained.
-The study also find results are robust.
+This report endeavors to explore the influence of household attitudes towards dowry on the highest level of education achieved by females. It draws upon data from the India Human Development Survey (IHDS) 2011, a nationally representative, comprehensive survey covering 42,152 households in 1,420 villages and 1,042 urban neighborhoods across India.
+The study concludes that, even after accounting for relevant factors, positive attitudes towards dowry correlate with higher levels of female education attainment. Furthermore, the study asserts the robustness of its findings.
 
 ### Contents
 
